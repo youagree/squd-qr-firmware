@@ -1,0 +1,1 @@
+# squd-qr-firmware
